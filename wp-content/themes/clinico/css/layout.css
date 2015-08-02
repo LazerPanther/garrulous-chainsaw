@@ -1,0 +1,177 @@
+.page_boxed{
+	max-width: 1250px;
+	margin: 0 auto;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+body.wide,
+.page_boxed{
+	background: #fff !important;
+}
+body:not(.page_boxed) .media-part .container{
+	width: auto;
+}
+.container,
+.page-header.logo-left .sticky_container,
+.page-header.logo-right .sticky_container,
+.page-header.logo-center .main-menu{
+	width:1170px;
+	margin:0 auto;
+	position:relative;
+}
+main{
+	width:100%;
+}
+.page-content.single-sidebar main{
+	width:870px;
+}
+.page-content.double-sidebar main{
+	width:570px;
+}
+aside{
+	width:270px;
+}
+.page-content>.container{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+.page-content aside.sbleft{
+   -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+}
+.page-content aside.sbright{
+   -webkit-box-ordinal-group: 4;
+   -moz-box-ordinal-group: 4;
+   -webkit-order: 3;
+   -ms-flex-order: 3;
+   order: 3;	
+}
+.page-content main{
+   -webkit-box-ordinal-group: 3;
+   -moz-box-ordinal-group: 3;
+   -webkit-order: 2;
+   -ms-flex-order: 2;
+   order: 2;	
+}
+.page-content>.container>aside.sbleft{
+	margin-right:30px;
+}
+.page-content>.container>aside.sbright{
+	margin-left:30px;
+}
+/* FOR IE 9 */
+.page-content>.container,
+.page-content>.container>*{
+	display: block\9;
+}
+aside.sbleft,
+main{
+	float: left\9;
+}
+aside.sbright{
+	float: right\9;
+}
+.page-content>.container:after{
+	display: none;
+}
+.page-content>.container:after{
+	content: "";
+	display: block\9;
+	clear: both\9;
+}
+/* \FOR IE 9 */	
+@media screen and (max-width: 1190px){
+	.page_boxed{
+		max-width: 1000px;
+	}
+	.container,
+	.page-header.logo-left .sticky_container,
+	.page-header.logo-right .sticky_container,
+	.page-header.logo-center .main-menu{
+		width: 940px;
+	}
+	aside{
+		width: 220px;
+	}
+	.page-content>.container>aside.sbleft{
+		margin-right: 20px;
+	}	
+	.page-content>.container>aside.sbright{
+		margin-left: 20px;
+	}
+	.page-content.single-sidebar main{
+		width: 700px;
+	}
+	.page-content.double-sidebar main{
+		width: 460px;
+	}
+}
+@media screen and (max-width: 980px){
+	.page_boxed{
+		max-width: 788px;
+	}
+	.container,
+	.page-header.logo-left .sticky_container,
+	.page-header.logo-right .sticky_container,
+	.page-header.logo-center .main-menu{
+		width: 738px;
+	}
+	aside{
+		width: 171px;
+	}
+	.page-content>.container>aside.sbleft{
+		margin-right: 18px;
+	}	
+	.page-content>.container>aside.sbright{
+		margin-left: 18px;
+	}
+	.page-content.single-sidebar main{
+		width: 549px;
+	}
+	.page-content.double-sidebar main{
+		width: 360px;
+	}
+}
+@media screen and (max-width: 767px){
+	.container,
+	.page-header.logo-left .sticky_container,
+	.page-header.logo-right .sticky_container,
+	.page-header.logo-center .main-menu{
+		width: auto;
+	}
+	.container{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.page-content>.container{
+		-webkit-box-direction: normal;
+	    -moz-box-direction: normal;
+	    -webkit-box-orient: vertical;
+	    -moz-box-orient: vertical;
+	    -webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	    flex-direction: column;
+	}
+	.page-content>.container>*{
+		width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+	.page-content>.container>.sbleft+.sbright+main,
+	.page-content>.container>.sbright{
+		margin-top: 60px;
+	}
+	/* FOR IE 9 */
+	.page-content>.container>.sbright{
+		margin-top: 0\9;
+	}
+	.page-content>.container>*+*{
+		margin-top: 60px\9 !important;
+	}
+	/* \FOR IE 9 */
+}

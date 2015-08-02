@@ -1,0 +1,14 @@
+.page-content aside.sbleft{
+   -webkit-box-ordinal-group: 4;
+   -moz-box-ordinal-group: 4;
+   -webkit-order: 3;
+   -ms-flex-order: 3;
+   order: 3;
+}
+.page-content aside.sbright{
+   -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+}

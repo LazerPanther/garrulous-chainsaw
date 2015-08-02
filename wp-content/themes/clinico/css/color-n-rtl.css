@@ -1,0 +1,26 @@
+.widget-title,
+.cws-widget .wpcf7-form .wpcf7-form-control-wrap:nth-of-type(odd):after,
+.cws-widget .wpcf7-form p:nth-of-type(odd) .wpcf7-form-control-wrap:only-child:after,
+.cws-widget .archive_item:after,
+.comment-reply-title,
+.tribe-events-list-event-title,
+.tribe-events-single-section-title,
+.tribe-events-map-event-title,
+.find_a_doctor .search_field:after,
+.woocommerce .onsale:after,
+.acc_featured_icon:after,
+.acc_featured_img:after{
+	border-right-color:#008fd5#;
+}
+.cws-widget .wpcf7-form .wpcf7-form-control-wrap:nth-of-type(even):after,
+.cws-widget .wpcf7-form p:nth-of-type(even) .wpcf7-form-control-wrap:only-child:after,
+.cws-widget .archive_item:nth-child(even):after,
+.find_a_doctor .search_field:nth-of-type(even):after,
+.accordion_section.featured:nth-child(even) .acc_featured_icon:after,
+.accordion_section.featured:nth-child(even) .acc_featured_img:after{
+	border-right-color:#4db1e2#;
+}
+.search-form label:before,
+#searchform>div:after{
+	border-left-color:#008fd5#;
+}

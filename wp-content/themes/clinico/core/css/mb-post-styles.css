@@ -1,0 +1,555 @@
+@import url("../../css/font-awesome.css");
+
+a{
+	cursor: pointer;
+}
+
+#cws_warning strong {
+	color: red;
+}
+
+.cws-post-section {
+	display: none;
+}
+
+#cws-shortcode-container {
+	width: 96%;
+}
+
+.cws-team-section label,
+.cws-shortcode-section label,
+.cws-post-section label {
+	font-weight: 700;
+}
+
+.cws-team-section .desc,
+.cws-shortcode-section .desc,
+.cws-page-section .desc,
+.cws-post-section .desc {
+	font-style: italic;
+}
+
+.mb-table {
+	width: 100%;
+}
+
+.mb-table td:first-child {
+	width: 20%;
+}
+
+.mb-table .wp-color-result,
+.mb-table td {
+	vertical-align: middle !important;
+}
+
+.mb-table th {
+	font-size: 1.4em;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.mb-table th span {
+	color: #cd2020;
+	font-style: italic;
+}
+
+/* our custom post_type format icon */
+.post-state-format.post-format-table:before,
+.post-format-icon.post-format-table:before,
+a.post-state-format.format-table:before {
+content: '\f180';
+}
+
+.cws-team-section {
+	border: 1px solid #cdcdcd;
+	border-radius: 5px;
+	margin-bottom: 5px;
+}
+
+.cws-team-section .mb-table td:first-child {
+	width: 10%;
+}
+
+.cws-team-section td .group:last-child {
+	width: 40%;
+}
+
+/*
+shortcode icons to display in the tinyMCE editor
+for wp versions older than 3.8 this font should be applied
+http://melchoyce.github.io/dashicons/
+*/
+
+/*
+table tr td .group:last-child {
+	clear: both;
+}
+*/
+table tr td .group{
+	display: inline-block;
+}
+table tr td .group + .group{
+	margin-left: 10px;
+}
+
+#set-post-thumbnail img {
+	background-image: linear-gradient(45deg, #ddd 25%, transparent 25%, transparent), linear-gradient(-45deg, #ddd 25%, transparent 25%, transparent), linear-gradient(45deg, transparent 75%, #ddd 75%), linear-gradient(-45deg, transparent 75%, #ddd 75%);
+	-webkit-background-size: 50px 50px;
+	-moz-background-size: 50px 50px;
+	background-size: 25px 25px;
+	-moz-box-shadow: 1px 1px 8px gray;
+	-webkit-box-shadow: 1px 1px 8px gray;
+	box-shadow: 1px 1px 1px gray;
+}
+
+.group input[type="checkbox"] {
+	margin-top: 10px;
+}
+
+/*
+.group label {
+	width: 100px;
+	float: left;
+}
+.group input {
+	width: auto;
+	float: right;
+}
+*/
+.cws-shortcode-container table tr td {
+	border-top: 1px dashed #cdcdcd;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 1000px) {
+	.group {
+		position: relative;
+		float: left;
+		width: 100% !important;
+		padding-left: 0 !important;
+	}
+
+	.group input {
+		width: 50% !important;
+	}
+}
+
+i[class^="mce"] {
+	font: normal 20px/1 'dashicons';
+}
+
+.mce-i-quote:before,
+span.mce_quote:before {
+	content: '\f130';
+}
+
+.mce-i-embed:before,
+span.mce_embed:before {
+	content: "\f126";
+}
+
+.mce-i-alert:before,
+span.mce_alert:before {
+	content: "\f348";
+}
+
+.mce-i-services:before,
+span.mce_services:before{
+	font-family: 'FontAwesome';
+	content: "\f0ad";
+	position: absolute;
+	top: 2px;
+	left: 2px;
+}
+
+.mce-menu-item{
+	position: relative !important;
+}
+.mce-menu-item .mce-ico:before{
+	top: 6px;
+	left: 12px;
+}
+
+.mce-i-table:before,
+span.mce_table:before{
+	font-family: 'FontAwesome';
+	content: "\f0ce" !important;
+	position: absolute;
+	top: 2px;
+	left: 2px;
+}
+
+.mce-i-progress:before,
+span.mce_progress:before{
+	font-family: 'FontAwesome';
+	content: "\f0ae";
+	position: absolute;
+	top: 2px;
+	left: 2px;
+}
+
+.mce-i-fa:before,
+span.mce_fa:before {
+	font-family: 'FontAwesome';
+	content: "\f024";
+	position: absolute;
+	top: 2px;
+	left: 2px;
+}
+
+.mce-i-fa:before,
+span.mce_fa:before {
+	font-family: 'FontAwesome';
+	content: "\f024";
+	position: absolute;
+	top: 2px;
+	left: 2px;
+}
+
+.mce-i-featured_fa:before{
+	font-family: FontAwesome;
+	content :'\f11e';
+	position: absolute;
+	top: 2px;
+	left: 2px;
+}
+
+.mce-i-mark:before,
+span.mce_mark:before {
+	font-family: 'FontAwesome';
+	content: "\f040";
+	position: absolute;
+	top: 2px;
+	left: 4px;
+}
+
+
+.mce-i-milestone:before,
+span.mce_milestone:before {
+	font-family: 'FontAwesome';
+	content: "\f091";
+	position: absolute;
+	top: 2px;
+	left: 4px;
+}
+
+.mce-i-cws_button:before{
+	position: absolute;
+	font-family: FontAwesome;
+	content: "\f046";
+	top: 2px;
+	left: 2px;
+}
+
+.mceToolbarRow3 span.mceIcon:hover {
+	color: #237dc8 !important;
+}
+
+.mce-i-dropcap:before,
+span.mce_dropcap:before {
+	position: absolute;
+	top: 4px;
+	left: -2px;
+	content: "\f215";
+}
+
+.mce-i-price-table:before,
+span.mce_price-table:before {
+	content: "\f180";
+}
+
+.mce-i-ourteam:before,
+span.mce_ourteam:before {
+	content: "\f307";
+}
+
+.mce-i-shortcode_carousel:before,
+span.mce_shortcode_carousel:before {
+	position: absolute;
+	font-family: FontAwesome;
+	content: "\f07e";
+	top: 2px;
+	left: 2px;
+}
+
+.mce-i-shortcode_blog:before,
+span.mce_shortcode_blog:before {
+	position: absolute;
+	font-family: FontAwesome;
+	content: "\f02d";
+	top: 2px;
+	left: 2px;
+}
+
+.mce-i-portfolio:before,
+span.mce_portfolio:before {
+	content: "\f161";
+}
+
+.mce-i-cws_cta:before,
+span.mce_cws_cta:before {
+	content: "\f181";
+}
+
+.mce-i-news:before,
+span.mce_news:before {
+	content: "\f319";
+}
+
+.mce-i-tweets:before,
+span.mce_tweets:before {
+	content: "\f301";
+}
+
+.mce-i-dropcap:after,
+span.mce_dropcap:after {
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+	font-size: 0.77em;
+	content: "\f214";
+}
+
+
+
+.mce-i-enable_cws_bar:before,
+span.mce_enable_cws_bar:before {
+	position: absolute;
+	top: 5px;
+	left: 7px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 0.8em;
+	content: "CWS";
+}
+
+i.mce-i-enable_cws_bar,
+a#content_enable_cws_bar {
+	width: 40px !important;
+}
+
+.mce-container-body>.mce-widget {
+	display: none !important;
+}
+
+.select2-drop-active {
+	z-index: 200000;
+}
+
+.redux-image-select input[type=radio] {
+	display:none;
+}
+.redux-image-select-presets img {
+	width:100%;
+}
+ul.redux-image-select li {
+	margin:0 10px 3px;
+	display:inline-block;
+	padding: 0 3px;
+}
+.redux-image-select li:last-child {
+	margin-bottom:0;
+}
+.redux-image-select img, .redux-image-select-selected img, .redux-image-select .tiles, .redux-image-select-selected .tiles {
+	border-width:4px;
+	border-style:solid;
+	border-radius: 7px;
+}
+.redux-image-select img, .redux-image-select .tiles {
+	border-color:#d9d9d9;
+}
+.redux-image-select-selected img, .redux-image-select-selected .tiles {
+	border-color:#7a7a7a;
+}
+.redux-image-select {
+	margin:0!important;
+}
+.redux-image-select label {
+	text-align: center;
+}
+
+.cws-page-section tr {
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.mce-grid-border.s1x12 a {
+	width: 32px !important;
+	height: 32px !important;
+}
+
+#cws_staff_thumb {
+	width: 40px;
+}
+/* widget's stuff */
+.widget-content .select2-container {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+select[id^="widget-cws"] {
+	width: 100%;
+}
+
+.widget-content img {
+	display: block;
+}
+
+.widget-content a {
+	cursor: pointer;
+}
+
+li.redux-image-select {
+	margin: 5px;
+}
+
+li.redux-image-select.selected {
+	border-width:4px;
+	border-style:solid;
+	border-color:#d9d9d9;
+}
+
+/* CWS_TB_MODAL */
+
+.cws_tb_modal{
+	top:0;
+	left:0;
+	display: block;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+}
+.cws_tb_modal > *{
+	position: absolute;
+}
+.cws_tb_modal .cws_tb_modal_overlay{
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.7;
+}
+.cws_tb_modal .cws_tb_modal_window{
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%,-50%);
+	-moz-transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	background: #fff;
+	box-shadow: 0 3px 6px rgba( 0, 0, 0, 0.3 );
+}
+.cws_tb_modal_content{
+	padding: 2px 15px 15px;
+}
+.cws_tb_modal_content #cws-shortcode-container{
+	width: 100%;
+}
+.cws_tb_modal_header{
+	background: #fcfcfc;
+	border-bottom: 1px solid #dfdfdf;
+	height: 29px;
+	font-weight: 600;
+	line-height: 29px;
+	overflow: hidden;
+	padding: 0 29px 0 10px;
+	text-overflow: ellipsis;
+	white-space: nowrap;	
+}
+.cws_tb_modal_header .cws_tb_modal_close{
+	color: #666;
+	text-align: center;
+	line-height: 29px;
+	width: 29px;
+	height: 29px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	cursor: pointer;
+}
+.cws_tb_modal_header .cws_tb_modal_close:before{
+	content: '\f158';
+	font: normal 20px/29px 'dashicons';
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.cws_tb_modal_header .cws_tb_modal_close:hover{
+	color: #2ea2cc;
+}
+
+/* MEDIA SELECT */
+
+.selected_media{
+	display: block;
+	margin-bottom: 10px;
+	max-height: 100px;
+}
+
+.select2-container .select2-choice span{
+	margin-right: 0 !important;
+}
+
+/**** cws_img_select_wrap ****/
+.cws_img_select_wrap:before{
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.cws_img_select_wrap img{
+  display: block;
+  max-width: 100%;
+  border-style: none !important;
+  border-radius: 0 !important;
+}
+.cws_img_select_wrap{
+  width: 44px;
+  margin: 0 auto;
+}
+.icon-options li.redux-image-select,
+.cws_img_select_wrap{
+  position: relative;
+  border: 1px solid #777;
+  border-radius: 4px;
+}
+.icon-options li.redux-image-select{
+	padding: 3px;
+}
+.cws_img_select_wrap:before,
+.redux-image-select-selected .cws_img_select_wrap:before,
+.icon-options li.redux-image-select:before{
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;  
+}
+.cws_img_select_wrap:hover:before,
+.redux-image-select-selected .cws_img_select_wrap:before,
+.icon-options li.redux-image-select.selected:before{
+  background: rgba( 0,0,0,0.3 );
+  opacity: 1;
+}
+.redux-image-select-selected .cws_img_select_wrap:after,
+.icon-options li.redux-image-select.selected:after{
+  content: "";
+  position: absolute;
+  display: block;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(../images/selected_mark.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.icon-options li.redux-image-select.selected:after{
+	background-size: 24px;
+}

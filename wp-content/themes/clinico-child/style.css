@@ -1,0 +1,83 @@
+/*
+Theme Name: Clinico - Child theme
+Description: Premium Medical and Health WordPress Theme. 
+Theme URI: http://clinico.creaws.com/
+Author: Creative Web Solutions
+Template: clinico
+Version: 1.5.1
+Author URI: http://themeforest.net/user/creativews
+Tags: clean, clinic, dentist, doctor, health, healthcare, hospital, medic, medical, medicine, responsive, timetable, wellness, corporate, Events calendar, flat
+Text Domain: clinico
+*/ 
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+.info-bar ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.info-bar ul li{
+	font-size: 17px;
+	font-weight: 400;
+	color: #0D61A2;
+	display: inline;
+}
+.info-bar ul li.tel{
+	float: left;
+}
+.info-bar ul li.street-address{
+	float: right;
+}
+.review-author{
+	font-weight: 700;
+	font-size: 18px;
+	text-align: right;
+	margin: 10px 0 30px 0;
+}
+.cws-widget-content .social-icons{
+	max-width: 192px;
+	margin: 0 auto;
+}
+main p{
+	margin: 0 0 20px 0;
+}
+.translator{
+	text-align: right;
+}
+.translator span{
+	color: #0D61A2;
+}
+.goog-te-gadget{
+	max-height: 30px;
+}
+@media screen and (max-width: 980px){
+	.info-bar ul li{
+		font-size: 15px;
+		margin: 5px 0;
+		display: block;
+		float: none !important;
+	}
+	.info-bar ul li strong{
+		display: block;
+	}
+	.translator{
+		text-align: center;
+	}
+	#google_language_translator{
+		text-align: center !important;
+	}
+	.goog-te-gadget .goog-te-combo{
+		width: 145px !important;
+		margin: 0 auto !important;
+		float: none;
+	}
+}

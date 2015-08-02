@@ -1,0 +1,94 @@
+.redux-container-image_select .redux-table-container {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+.redux-container-image_select .redux-image-select input[type='radio'] {
+  display: none;
+}
+.redux-container-image_select .redux-image-select-presets img {
+  width: 100%;
+}
+.redux-container-image_select ul.redux-image-select li {
+  margin: 0 10px 3px 10px;
+  display: inline-block;
+  padding: 10px;
+  padding-left: 0;
+}
+.redux-container-image_select .redux-image-select li:last-child {
+  margin-bottom: 0;
+}
+.redux-container-image_select .redux-image-select-selected {
+  background-color: #f9f9f9;
+}
+.redux-container-image_select .redux-image-select img,
+.redux-container-image_select .redux-image-select-selected img,
+.redux-container-image_select .redux-image-select .tiles,
+.redux-container-image_select .redux-image-select-selected .tiles {
+  border-width: 4px;
+  border-style: solid;
+}
+.redux-container-image_select .redux-image-select img,
+.redux-container-image_select .redux-image-select .tiles {
+  border-color: #d9d9d9;
+}
+.redux-container-image_select .redux-image-select-selected img,
+.redux-container-image_select .redux-image-select-selected .tiles {
+  border-color: #7a7a7a;
+}
+.redux-container-image_select .redux-image-select {
+  margin: 0 !important;
+}
+.redux-container-image_select .redux-image-select .tiles {
+  display: block;
+  background-color: #FFF;
+  background-repeat: repeat;
+  width: 40px;
+  height: 40px;
+}
+/**** cws_img_select_wrap ****/
+.cws_img_select_wrap:before{
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.cws_img_select_wrap img,
+.cws_img_select_wrap span{
+  display: block;
+  border-style: none !important;
+  border-radius: 0 !important;
+}
+.cws_img_select_wrap{
+  position: relative;
+  border: 1px solid #777;
+  border-radius: 4px;
+}
+.cws_img_select_wrap:before,
+.redux-image-select-selected .cws_img_select_wrap:before{
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;  
+}
+.cws_img_select_wrap:hover:before,
+.redux-image-select-selected .cws_img_select_wrap:before{
+  background: rgba( 0,0,0,0.3 );
+  opacity: 1;
+}
+.redux-image-select-selected .cws_img_select_wrap:after{
+  content: "";
+  position: absolute;
+  display: block;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(../../../assets/img/selected_mark.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}

@@ -1,0 +1,120 @@
+.tribe-mini-calendar-nav-link,
+.tribe-mini-calendar .vcalendar td,
+.tribe-mini-calendar .tribe-events-present:after,
+.tribe-mini-calendar .tribe-mini-calendar-today:after{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+.tribe-mini-calendar{
+	width: 100%;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.tribe-mini-calendar-nav div{
+	position: relative;
+	padding:0 38px;
+	text-align: center;
+	font-size: 13px;
+	line-height: 25px;
+}
+.tribe-mini-calendar-nav-link{
+	position: absolute;
+	height: 100%;
+	width: 38px;
+	top: 0;
+	font-size: 0;
+}
+.tribe-mini-calendar-nav-link span:before{
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 22px;
+	line-height: 26px;
+	color: #fff;
+}
+.tribe-mini-calendar-nav-link.prev-month{
+	left: 0;
+}
+.tribe-mini-calendar-nav-link.next-month{
+	right: 0;
+}
+.tribe-mini-calendar-nav-link.prev-month span:before{
+	content:"\f104";
+}
+.tribe-mini-calendar-nav-link.next-month span:before{
+	content:"\f105";
+}
+.tribe-mini-calendar thead{
+	background: #f4f4f4;
+}
+.tribe-mini-calendar-dayofweek{
+	font-size: 9px;
+	line-height: 17px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.tribe-mini-calendar .vcalendar td{
+	border: 1px solid #e3e3e3;
+	font-size: 13px;
+	line-height: 37px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+}
+.tribe-mini-calendar .vcalendar td:hover{
+	color: #fff;
+}
+.tribe-mini-calendar .tribe-events-present:after,
+.tribe-mini-calendar .tribe-mini-calendar-today:after{
+	content: '';
+	position: absolute;
+	top: 70%;
+	right: 20%;
+	left: 20%;
+	height: 3px;
+}
+.tribe-mini-calendar .tribe-events-present:hover:after,
+.tribe-mini-calendar .tribe-mini-calendar-today:hover:after{
+	background: #fff;
+}
+.tribe-mini-calendar .tribe-events-past{
+	opacity: 0.6;
+}
+
+
+/******************** COUNTDOWN ********************/
+.tribe-countdown-text{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+.tribe-countdown-text a,
+.tribe-countdown-text:before,
+.tribe-countdown-text:after{
+	display: inline-block;
+	vertical-align: middle;
+	white-space: pre;
+}
+.tribe-countdown-text a{
+	max-width: 200px;
+}
+.tribe-countdown-text:before{
+	content: "\2013\0020";
+}
+.tribe-countdown-text:after{
+	content: "\0020\2013";
+}
+.tribe-countdown-timer{
+	padding-top: 0;
+	display: table;
+	width: 100%;
+}
+.tribe-countdown-timer>*{
+	display: table-cell;
+}
+.tribe-mini-calendar .vcalendar td:hover a{
+	color: #fff !important;
+}
+/******************** COUNTDOWN ********************/

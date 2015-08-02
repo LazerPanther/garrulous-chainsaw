@@ -1,0 +1,325 @@
+a,.cws-widget ul>li>a:before,
+.cws-widget .recentcomments:before,
+.cws-widget ul>li>a:hover,
+.search-form label.button-hover:after,
+[type="submit"]:hover,
+.cws-widget .widget-icon.icon>i,
+.social-icons .icon:hover i,
+.news .date span,
+.news h3>a:hover,
+.footer_sidebar_area,
+.tribe-events-calendar thead th,
+.tribe-events-list-event-title a:hover,
+.tribe-events-day .tribe-events-day-time-slot h5,
+.accordion_title:hover,
+.cws_button:not(.custom_color):hover,
+.callout_widget .title,
+.soc_icon:hover:not(.custom_color),
+.milestone .number,
+.services .accordion_title,
+.pricing_table_column:hover .content_part i,
+.pricing_table_column.active_table_column .content_part i,
+.our_team .team_member_info .name,
+.theme_color_sb_area [type="submit"],
+.theme_color_sb_area .find_a_doctor .search_field input,
+.theme_color_sb_area .find_a_doctor .search_field select,
+.tparrows.default:hover,
+.cws-widget ul>li.page_item.current_page_item>a,
+.cws-widget ul>li.current-menu-item>a,
+#scrollup:hover,
+.widget-title a:hover,
+.archive_item a:hover,
+.woocommerce  .col2-set h3,
+.woocommerce .button:hover, 
+ul.products h3,
+ul.products h3 mark,
+div.woocommerce table tr.order-total,
+.woocommerce .order .order-actions a:hover,
+.widget_shopping_cart_content p.buttons a:hover,
+.woocommerce div[class^="post-"] h1.product_title.entry-title,
+.woocommerce h2,
+.woocommerce-tabs h3,
+#searchform>div.hover-search:before,
+.footer_sidebar_area a:hover,
+.footer_sidebar_area .cws-widget ul>li>a:hover,
+#lang_sel_list .lang_sel_sel,
+.tribe-events-list-event-title a:hover,
+#tribe-geo-results .tribe-events-list-event-title a:hover,
+#tribe-geo-options .tribe-events-list-event-title a:hover,
+.page_footer .cws-widget .post-list .time-post,
+.page_footer .latest_tweets .icon_frame>i{
+	color:#008fd5;
+}
+.footer_sidebar_area .cws-widget-content:not(.backlight) a{
+	color: #4db1e2;
+}
+.theme_color_sb_area .find_a_doctor .search_field input::-webkit-input-placeholder{
+	color:#008fd5;
+}
+.theme_color_sb_area .find_a_doctor .search_field input::-moz-placeholder{
+	color:#008fd5;	
+}
+.main-menu>.menu-item.current-menu-item>a,
+.main-menu>.menu-item.current-menu-ancestor>a,
+.main-menu>.menu-item>.sub-menu>.menu-item.current-menu-ancestor>a,
+.main-menu>.menu-item>.sub-menu>.menu-item.current-menu-item>a,
+.main-menu .menu-item .menu-item>.sub-menu>.menu-item:first-child:before,
+.main-menu .menu-item .menu-item>.sub-menu>.menu-item>a,
+.main-menu>.menu-item>.sub-menu>.menu-item:hover>a,
+.cws-widget .wpcf7-form .wpcf7-form-control-wrap:nth-of-type(even):before,
+.cws-widget .wpcf7-form p:nth-of-type(even) .wpcf7-form-control-wrap:only-child:before,
+.widget_carousel_nav>i:hover,
+.gallery_carousel_nav>i:hover,
+.carousel_nav>i:hover,
+.news .date i,
+.news .cats .more:hover,
+.load_more:hover,
+.testimonial:after,
+.testimonial:before,
+blockquote:before,
+.benefits_more:hover,
+.benefits .cws-widget:nth-child(odd) .benefits_more,
+.cws-widget-content.backlight,
+.cws-widget .archive_item:nth-child(even):before,
+#tribe-bar-collapse-toggle,
+#tribe-bar-views .icons_part,
+.tribe-events-sub-nav>li a:hover:before,
+#tribe-events-content.tribe-events-month td:hover div[id^="tribe-events-daynum"],
+.tribe-grid-allday .entry-title a,
+.tribe-bar-collapse-toggle-full-width #tribe-bar-collapse-toggle:hover,
+.tribe-mini-calendar-nav-link:hover,
+.services .accordion_section:nth-child(even) .service_icon,
+.services .accordion_section:nth-child(even) .details,
+.pricing_table_header,
+.pricing_table_column:hover .price_part,
+.pricing_table_column.active_table_column .price_part,
+.links a:hover,
+.toggle_sidebar,
+.toggle_sidebar .switcher,
+.theme_color_sb_area [type="submit"]:hover,
+.find_a_doctor .search_field:nth-of-type(even):before,
+mark,
+.main-menu>.menu-item-language>a,
+.header_language_bar #lang_sel li a.lang_sel_sel:hover,
+.accordion_section.featured:nth-child(even) .acc_featured_icon,
+.accordion_section.featured:nth-child(even) .acc_featured_img{
+	background:#4db1e2;
+}
+.main-menu .menu-item .menu-item>.sub-menu>.menu-item.current-menu-item>a,
+.main-menu .menu-item .menu-item>.sub-menu>.menu-item.current-menu-ancestor>a,
+.main-menu>.menu-item:hover>a, .main-menu>.menu-item>.sub-menu>.menu-item>.sub-menu>.menu-item:hover>a,
+.main-menu>.menu-item>.sub-menu>.menu-item>a,.page-title,
+.search-form label:after,
+.cws-widget .tagcloud a:hover,
+.cws-widget .wpcf7-form .wpcf7-form-control-wrap:nth-of-type(odd):before,
+.cws-widget .wpcf7-form p:nth-of-type(odd) .wpcf7-form-control-wrap:only-child:before,
+*[type="submit"],
+.widget_carousel_nav>i,
+.gallery_carousel_nav>i,
+.carousel_nav>i,
+.social-icons .icon i,
+.social-icons .icon:hover>a,
+.news .date,
+.news .cats .more,
+.load_more,
+.pagination .current,
+html:not(.touch) .pagination *:hover,
+.testimonial .author,
+.benefits_more,
+.benefits .cws-widget:nth-child(odd) .benefits_more:hover,
+.cws-widget .archive_item:before,
+.icon_frame,
+#tribe-bar-header,
+#tribe-events-header,
+.tribe-events-sub-nav>li a:before,
+#tribe-events-content.tribe-events-month td:hover:not(.tribe-events-othermonth),
+#tribe-bar-views .view_icons .view_icon.selected,
+#tribe-bar-views .view_icons .view_icon:hover,
+.tribe-grid-allday .entry-title:hover a,
+.view_icon_tooltip,
+.tribe-bar-collapse-toggle-full-width #tribe-bar-collapse-toggle,
+.tabs .tab.active,
+.accordion_title .accordion_icon:before,
+.accordion_title .accordion_icon:after,
+.tab_widget.type-2 .tab.active,
+.tab_widget.type-vertical .tab,
+.accordion_widget.type-2 .accordion_section.active .accordion_title,
+.cws_button,
+.dropcap,
+main ul>li:before,
+.soc_icon:not(.custom_color),
+.featured_icon:not(.custom_color),
+.toggle_widget.type-2 .accordion_section.active,
+.tribe-mini-calendar-nav-link,
+.tribe-mini-calendar .vcalendar td:hover,
+.tribe-mini-calendar .tribe-events-present:after,
+.tribe-mini-calendar .tribe-mini-calendar-today:after,
+.services .service_icon,
+.services .details,
+.pricing_table_column:hover .pricing_table_header,
+.pricing_table_column.active_table_column .pricing_table_header,
+.links a,
+.our_team .item:hover .team_member_info,
+.photo_tour .item:hover .portfolio_item_info,
+.mobile_menu_header,
+#block-404-substrate,
+.link_url,
+.find_a_doctor .search_field:before,
+#lang_sel li a:hover,
+#lang_sel_list.lang_sel_list_horizontal li a:hover,
+.pagination.page_links>span,
+.acc_featured_icon,
+.acc_featured_img,
+.woocommerce .button.checkout-button{
+	background:#008fd5;
+}
+.page-title,
+.toggle_sidebar .switcher:after{
+	border-top-color:#4db1e2;
+}
+.widget-title,
+.cws-widget .wpcf7-form .wpcf7-form-control-wrap:nth-of-type(odd):after,
+.cws-widget .wpcf7-form p:nth-of-type(odd) .wpcf7-form-control-wrap:only-child:after,
+.cws-widget .archive_item:after,
+.comment-reply-title,
+.tribe-events-list-event-title,
+.tribe-events-single-section-title,
+.tribe-events-map-event-title,
+.find_a_doctor .search_field:after,
+.woocommerce .onsale:after,
+.acc_featured_icon:after,
+.acc_featured_img:after{
+	border-left-color:#008fd5;
+}
+.cws-widget .wpcf7-form .wpcf7-form-control-wrap:nth-of-type(even):after,
+.cws-widget .wpcf7-form p:nth-of-type(even) .wpcf7-form-control-wrap:only-child:after,
+.cws-widget .archive_item:nth-child(even):after,
+.find_a_doctor .search_field:nth-of-type(even):after,
+.accordion_section.featured:nth-child(even) .acc_featured_icon:after,
+.accordion_section.featured:nth-child(even) .acc_featured_img:after{
+	border-left-color:#4db1e2;
+}
+.search-form label:before,
+#searchform>div:after{
+	border-right-color:#008fd5;
+}
+.search-form label:after,
+.cws-widget .tagcloud a:hover,
+*[type="submit"],
+.cws-widget .widget-icon.icon>i,
+.cws-widget .widget-icon.icon>i>.triangle:before,
+.social-icons .icon>a,
+.testimonial,
+blockquote,
+.tab_widget.type-2 .tab,
+.tab_widget.type-2 .tab_items,
+.tab_widget.type-vertical .tabs,
+.tab_widget.type-vertical .tab_items,
+.cws_button:not(.custom_color),
+.soc_icon:not(.custom_color),
+.tparrows.default,
+.cws-widget .search-form input,
+ul.products li,
+.woocommerce .order .order-actions a,
+.widget_shopping_cart_content p.buttons a,
+#searchform>div:before,
+.button.add_to_cart_button,
+.added_to_cart.wc-forward,
+#content h1.page-title,
+.woocommerce .return-to-shop a,
+#lang_sel_list.lang_sel_list_horizontal li a:hover,
+.rev_slider_wrapper .tp-bullets.simplebullets.round .bullet,
+.woocommerce .button.checkout-button{
+	border-color:#008fd5;
+}
+#lang_sel li a,
+#lang_sel_click li a{
+	outline-color:#008fd5;
+}
+.testimonial .author:before,
+.tab_widget.type-2 .tab.active:after,
+.view_icon_tooltip:after,
+.link_url:before{
+	border-top-color:#008fd5;
+}
+.cws-widget #wp-calendar td>a,
+.our_team .team_member_info,
+.photo_tour .portfolio_item_info{
+	border-bottom-color:#008fd5;
+}
+.benefits .cws-widget{
+	background: rgba(0,143,213,0.9);
+}
+.benefits .cws-widget:nth-child(even),
+.tribe-events-week-grid .tribe-week-event .vevent,
+.rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected{
+	background: rgba(77,177,226,0.9);
+}
+.tribe-events-tooltip,
+.slimScrollRail,
+.tribe-events-event-meta .more:hover,
+.pricing_table_button:hover,
+html.touch .main-nav-container .main-menu .sub-menu .menu-item a,
+html.touch .main-nav-container .main-menu>.menu-item.current-menu-ancestor:not(.active)>a,
+html.touch .main-nav-container .main-menu>.menu-item.current-menu-item:not(.active)>a{
+	background-color: #4db1e2 !important;
+}
+.events-archive.events-gridview #tribe-events-content table .vevent{
+	border-bottom-color: #008fd5 !important;
+}
+.tribe-grid-header .column a,
+.tribe-events-list-separator-month,
+#footer-top-part div.tribe-countdown-number,
+#footer-top-part div.tribe-countdown-colon,
+#footer-top-part span.tribe-countdown-under,
+.tp-caption.clinico{
+	color: #008fd5 !important;
+}
+.slimScrollBar,
+.tribe-events-event-meta .more,
+.tribe-week-grid-wrapper .tribe-events-tooltip,
+.tparrows.default,
+html.touch .main-nav-container .main-menu>.menu-item a,
+html.touch .main-nav-container .main-menu .sub-menu .menu-item.current-menu-item>a,
+html.touch .main-nav-container .main-menu .sub-menu .menu-item.current-menu-ancestor>a{
+	background-color: #008fd5 !important;
+}
+.tribe-events-tooltip .tribe-events-arrow{
+	border-top-color: #4db1e2 !important;
+}
+.single_bar .progress,
+.woocommerce .onsale,
+.woocommerce-pagination .page-numbers.current,
+.woocommerce-pagination ul.page-numbers li a:hover,
+.button.add_to_cart_button,
+.added_to_cart.wc-forward,
+ul.products li.product:hover,
+.quantity.buttons_added input.plus,
+.quantity.buttons_added input.minus,
+.woocommerce .order .order-actions a,
+.widget_shopping_cart_content p.buttons a,
+.woocommerce-tabs .tabs li.active a,
+#searchform>div:before,
+.price_slider .ui-slider-handle,
+.woocommerce .return-to-shop a{
+	background-color: #008fd5;
+}
+.quantity.buttons_added input.plus:hover,
+.quantity.buttons_added input.minus:hover,
+ul.products>li .button.add_to_cart_button:hover, 
+ul.products>li .added_to_cart.wc-forward:hover,
+.price_slider .ui-slider-range{
+	background-color: #4db1e2;
+}
+@media screen and (max-width: 767px){
+	.main-menu>.menu-item a,
+	.main-menu .sub-menu .menu-item.current-menu-item>a,
+	.main-menu .sub-menu .menu-item.current-menu-ancestor>a{
+		background: #008fd5 !important;
+	}
+	.main-menu .sub-menu .menu-item a,
+	.main-menu>.menu-item.current-menu-ancestor:not(.active)>a,
+	.main-menu>.menu-item.current-menu-item:not(.active)>a{
+		background: #4db1e2 !important;
+	}
+}

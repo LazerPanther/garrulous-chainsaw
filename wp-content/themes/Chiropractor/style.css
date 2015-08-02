@@ -1,0 +1,217 @@
+/*   
+Theme Name: Chiropractor
+Theme URI: http://wpmania.net/Store/
+Description:Chiropractor WordPress Themes is a Professional Responsive Corporate/Business/Lead Generation WordPress Theme perfect for any Business Website on any device. 
+Author: The WpMania.Net Team
+Author URI: http://wpmania.net/Store/
+Version: 8.00
+Tags: white, light, dark, black, silver, two-columns, left-sidebar, right-sidebar, flexible-width, custom-header, custom-menu, featured-image-header, full-width-template, post-formats, threaded-comments, sticky-post, theme-options, lead generation.
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: ManiaFramework
+*/
+@import url(child.css);
+.slider_columns_four, .slider_columns_four h2, .slider_columns_four h1, .slider_columns_four .heading{ color:#FFF; }
+
+
+.wpm_shadow{ border:none;   }
+
+/******** CSS FOR Header Area ******/
+#wpm_header{ background:#FFF;  }
+.wpm_header_row{ padding:0px; }
+.wpm_logo{ margin-top:10px; margin-bottom:10px; }
+
+.contact_info{ margin-top:0px; }
+.wpm_social{  }
+.header_widget_headeing{ }
+
+/******** CSS FOR Menue ******/
+.lead_wpm_menu_bg{ margin-top:0px !important; }
+#wpm_menu_bg{  margin-bottom:0px; background:#506a80; }
+.menu_bg_row{  }
+.top_nav{ }
+
+/******** CSS FOR Search  Area ******/
+.wpm_search_warp{ right:20px; } 
+.wpm_search i{ }
+#wpm_search_form{}
+#wpm_search_form input[type="text"] { margin-top:-1px; }
+.social_icons_h_and_w{ width:35px; height:35px; }
+
+
+
+
+/**** CSS FOR SLIDR AREA ****/
+.slider_container{ margin-top:0px; margin-bottom:0px; background:#2f7bad url(assets/images/bg_banner.jpg) left top;  }
+.slider_row{ background:none; padding-top:30px; padding-bottom:30px;  }
+.slider_columns{}
+.slider_columns_four{  }
+@media (max-width: 768px), only screen and (max-device-width: 768px) { .slider_columns{ margin-top:30px; } .slider_columns_four{ margin-top:0px; }  }
+
+
+.slider_inner_container{  }
+.slider_inner_row{  }
+.slider_inner_columns{  }
+.flexslider{  }
+.flex-control-nav { }
+.flex-control-paging li a{  }
+
+
+
+/**** CSS FOR Lead Capture HEADING AREA ****/
+.lead_capture_heading_container{  }
+.lead_capture_heading_row{}
+.lead_capture_heading_columns{}
+.lead_capture_heading_image{}
+.lead_capture_heading_h1{  }
+
+
+
+
+
+/**** CSS FOR HEADING AREA ****/
+.heading_container{
+
+-webkit-box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.50);
+-moz-box-shadow:    0px 0px 10px 0px rgba(50, 50, 50, 0.50);
+box-shadow:         0px 0px 10px 0px rgba(50, 50, 50, 0.50);
+
+background:#f1f1f1;
+ }
+.heading_row{ }
+.heading_columns{}
+.heading_h1{ color:#1c2730;  }
+.heading_h2{  }
+.heading_brudcamp{ color:#999; }
+.heading_brudcamp a{ color:#000; }
+.heading_sub_title{  }
+.heading_none{  }
+
+
+
+
+
+
+/******** CSS FOR Call To Action Area ******/
+.call_to_action_content{  margin-top:0px;  margin-bottom:0px; }
+.call_to_action_row{ padding:20px;  }
+.call_to_action{    }
+.call_to_action h1, .call_to_action h2, .call_to_action h3{ }
+
+/******** CSS FOR HOME FEATURED AREA ******/
+.home_featured_container{ padding-top:30px; }
+.home_featured_row{ padding-top:30px; }
+.home_featured_columns{  
+
+-webkit-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0.0);
+-moz-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0.0);
+box-shadow: 0px 0px 5px rgba(50, 50, 50, 0.0);
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+
+background:none;
+
+ }
+
+.home_featured_inner{  :none; }
+.home_featured_h2{  text-align:center;   }
+.home_featured_image{ margin-bottom:0px;  margin-top:20px;
+
+border:10px solid #CCC;
+border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%; }
+.home_featured_excerpt{ padding:0px; text-align:justify;    }
+.home_featured_excerpt p{ }
+.home_featured_read_more{ text-align:center; padding-top:10px;  }
+.wpm_custom_featured_text{ }
+
+.wpm_custom_featured_text{  }
+
+.home_featured_h2 i{ font-size:50px; line-height:100px; background:#CCC; 
+border-radius: 50%;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+width:100px; height:100px; text-align:center;
+color:#FFF;
+margin-bottom:10px;
+}
+
+
+
+/******** CSS FOR HOME BLPG AREA ******/
+.home_blog_main_warper{ margin-top:30px; }
+.home_blog_row{ }
+.home_blog_inner{}
+.home_blog_image{ }
+.home_blog_h3{}
+.home_blog_excerpt{ }
+.home_blog_read_more{  }
+
+
+
+/**** CSS FOR ARchIV AREA ****/
+.archive_row{  }
+.archive_h2{  }
+.archive_image{   }
+.archive_read_more{  }
+
+
+/**** CSS FOR Inner Pages ****/
+.wpm_inner_container{ margin-top:-20px; }
+.wpm_inner_row{  
+background:none;
+-webkit-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0);
+-moz-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0);
+box-shadow: 0px 0px 5px rgba(50, 50, 50, 0);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+
+}
+.row {
+width: 100%;
+min-width: 250px;
+margin: 0 auto;
+}
+
+.wpm_inner_sidebar{}
+.wpm_inner_main{}
+
+
+
+
+/******** CSS FOR FOOTER AREA ******/
+.footer_container{  background:#2d7aac url(assets/images/bottom-shadow.png) no-repeat top center; }
+.footer_row{ }
+.footer_row .heading{   }
+
+/******** CSS FOR FOOTER AREA ******/
+.copyright_container{ background:#506a80;  }
+.copyright_row{   }
+.copyright_inner{}
+
+/******** CSS FOR BACK TO TOP ******/
+#toTop {  
+}
+#toTop:hover {    }
+
+
+
+/******* CSS FOR WIDGET *******************/
+.widget .heading{ }
+
+
+/********** CSS FOR LIST *****************/
+li{ }
+
+
+/**********Addons ui kit ***********/
+.uk-sticky{ }
+
+
+/********** CSS FOR BUTTONS ***********/
+input[type=submit]{  }
+@media (max-width: 1200px), only screen and (max-device-width: 1200px) { .wpm_header_row{ padding-left:30px; padding-right:30px; } .row{ padding-left:30px; padding-right:30px; }
+@media (max-width: 768px), only screen and (max-device-width: 768px) { .slider_row{ padding:20px; } }

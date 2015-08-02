@@ -1,0 +1,17 @@
+/*For the ever-lovely IE
+Remember: use sparingly!*/
+
+body { behavior: url("/wp-content/themes/black-and-red-theme-sci-mod/csshover3.htc"); } 
+
+.right { padding-bottom: 10px; }
+
+div.left { 
+	width: 235px; 
+	overflow: hidden; 
+}
+
+div.right { width: 610px; }
+
+#menu ul li { position: relative; }
+
+#menu ul ul { top: 34px; left: 0; }

@@ -1,0 +1,510 @@
+.redux-main .redux-container-background .background-position, .redux-main .redux-container-background .background-position select, .redux-main .redux-container-background .background-attachment, .redux-main .redux-container-background .background-attachment select, .redux-main .redux-container-background .background-clip, .redux-main .redux-container-background .background-clip select, .redux-main .redux-container-background .background-origin, .redux-main .redux-container-background .background-origin select, .redux-main .redux-container-background .background-size, .redux-main .redux-container-background .background-size select, .redux-main .redux-container-background .background-repeat, .redux-main .redux-container-background .background-repeat select {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-border .select2-container {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-border .select_wrapper {
+	float: right;
+}
+.redux-container-border .select_wrapper select {
+	float: right;
+}
+.redux-container-border .field-border-input {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-checkbox input {
+	float: right;
+}
+.redux-container-checkbox label .field-desc {
+	float: right;
+}
+.redux-main input.redux-color {
+	float: right;
+	margin-left: auto;
+	margin-right: 5px;
+}
+.redux-main input.color-transparency {
+	margin-left:3px;
+	margin-right:10px;
+}
+.redux-main .minicolors .minicolors-grid {
+	left: auto;
+	right: 1px;
+}
+.redux-main .minicolors .minicolors-grid-inner {
+	left: auto;
+	right: 0;
+}
+.redux-main .minicolors-slider, .redux-main .minicolors-opacity-slider {
+	left: auto;
+	right: 152px;
+}
+.redux-main .minicolors-opacity-slider {
+	left: auto;
+	right: 173px;
+}
+.redux-main .minicolors-grid .minicolors-picker {
+	left: auto;
+	right: 70px;
+	margin-left: auto;
+	margin-right:-6px;
+}
+.redux-main .minicolors-grid .minicolors-picker>div {
+	left: auto;
+	right: 0;
+}
+.redux-main .minicolors-picker {
+	left: auto;
+	right: 0;
+}
+.redux-main .minicolors-inline .minicolors-panel {
+	right:auto;
+}
+.redux-main input.color_rgba-transparency {
+	margin-left: 3px;
+	margin-right: 10px;
+}
+.redux-dimensions-container .select_wrapper {
+	float: right;
+}
+.redux-dimensions-container .select_wrapper select {
+	float: right;
+}
+.redux-dimensions-container .field-dimensions-input {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-editor .quicktags-toolbar input {
+	background-image:-webkit-gradient(linear, right bottom, right top, from(#e3e3e3), to(#fff));
+}
+.redux-container-group .redux-groups-accordion-group h3 {
+	background-image:-webkit-gradient(linear, right top, right bottom, from(#f9f9f9), to(#ececec));
+}
+.redux-container-group .redux-groups-remove {
+	float: left;
+}
+.redux-info-field .redux-info-icon {
+	margin-right: auto;
+	margin-left:15px;
+}
+.redux-main .button.remove-image {
+	margin-left: auto;
+	margin-right: 10px;
+}
+.redux-main .upload_button_div {
+	float: right;
+}
+.redux-main .upload_button_div span.button {
+	margin-left: auto;
+	margin-right: 10px;
+}
+.redux-main .upload-error {
+	float: right;
+	text-shadow: -1px 1px 0 #FFF;
+	margin:0 0 0 10px;
+}
+.redux-main .reset-button {
+	float: right;
+}
+.redux-container-multi_text .redux-multi-text-remove {
+	margin-left: auto;
+	margin-right: 5px;
+}
+.redux-group-tab .form-table-section-indented {
+	margin-left: auto;
+	margin-right:5%;
+}
+.redux-container-select li.ui-state-highlight {
+	margin-left: auto;
+	margin-right: 5px;
+}
+.redux-container-slider .redux_slider {
+	margin-left: auto;
+	margin-right: 15px;
+}
+.redux-container-slides .redux-slides-accordion-group h3 {
+	background-image:-webkit-gradient(linear, right top, right bottom, from(#f9f9f9), to(#ececec));
+}
+.redux-container-slides .redux-slides-add {
+	float: left;
+	margin-right: auto;
+	margin-left: 10%;
+}
+.redux-container-slides .redux-slides-remove {
+	float: left;
+}
+.redux-container-sortable label {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-sortable input {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-sortable .checkbox-container .drag {
+	float: left;
+	margin-left: auto;
+	margin-right: 10px;
+}
+.redux-container-sorter {
+	margin-right: auto;
+	margin-left:-20px;
+}
+.redux-container-sorter ul {
+	float: right;
+	margin:0 0 0 15px;
+}
+.redux-container-sorter ul li {
+	background-image:-webkit-gradient(linear, right top, right bottom, from(#f9f9f9), to(#ececec));
+}
+.redux-container-spacing .select_wrapper {
+	float: right;
+}
+.redux-container-spacing .select_wrapper select {
+	float: right;
+}
+.redux-container-spacing .field-spacing-input:nth-of-type(1) {
+	left: auto;
+	right: 61px;
+}
+.redux-container-spacing .field-spacing-input:nth-of-type(2) {
+	left: auto;
+	right: 61px;
+}
+.redux-container-spacing .field-spacing-input:nth-of-type(3) {
+	left: auto;
+	right: -61px;
+}
+.redux-container-spacing .field-spacing-input:nth-of-type(4) {
+	left: auto;
+	margin-right: auto;
+	right: -183px;
+	margin-left: -61px;
+}
+.redux-container-spacing .field-spacing-input {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-spinner .ui-spinner {
+	display: inline-block;
+}
+.redux-container-spinner .ui-widget .ui-spinner-button {
+	background:-webkit-gradient(linear, right top, right bottom, from(#fff), to(#f3f3f3));
+}
+.redux-container-spinner .ui-spinner-button:hover, .redux-container-spinner .ui-state-hover {
+	background:-webkit-gradient(linear, right top, right bottom, from(#f3f3f3), to(#fff));
+}
+.redux-container-spinner .ui-corner-tr, .redux-container-spinner .ui-spinner-button .ui-icon-triangle-1-n {
+	-webkit-border-radius: 5px 0 0 5px;
+	-moz-border-radius: 5px 0 0 5px;
+	border-radius: 5px 0 0 5px;
+}
+.redux-container-spinner .ui-corner-br, .redux-container-spinner .ui-spinner-button .ui-icon-triangle-1-s {
+	-webkit-border-radius: 5px 0 0 5px;
+	-moz-border-radius: 5px 0 0 5px;
+	border-radius: 5px 0 0 5px;
+}
+.redux-container-switch .switch-options {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-container-switch .cb-enable, .redux-container-switch .cb-disable, .redux-container-switch .cb-enable span, .redux-container-switch .cb-disable span {
+	float: right;
+}
+.redux-container-text label {
+	float: right;
+}
+.redux-main .redux-typography-container .wp-picker-container {
+	float: right;
+}
+.redux-main .redux-typography-container select, .redux-main .redux-typography-container .typography-style, .redux-main .redux-typography-container .typography-script {
+	float: right;
+}
+.redux-main .redux-typography-container .typography-script, .redux-main .redux-typography-container .typography-script select {
+	margin-left: 0;
+}
+.redux-main .redux-typography-container .select_wrapper {
+	float: right;
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-main .redux-typography-container input.redux-typography-color {
+	float: right;
+	margin-left: auto;
+	margin-right: 5px;
+}
+.redux-container .hr {
+	float: right;
+}
+.redux-container .inner {
+	left: auto !important;
+	right: 0 !important;
+	margin-right: 0;
+}
+.shadow1:before, .shadow1:after {
+	left: auto;
+	right: 10px;
+}
+.shadow1:after {
+	right: auto;
+	left: 10px;
+}
+#redux-header #redux-header-logo {
+	float: right;
+}
+#redux-header #redux-header-logo:after{
+	left: auto;
+	right: 42%;
+	-webkit-transform: skew(-30deg);
+	-moz-transform: skew(-30deg);
+	-ms-transform: skew(-30deg);
+	transform: skew(-30deg);
+	background: linear-gradient(90deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+	background: -webkit-linear-gradient(90deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+	background: -moz-linear-gradient(90deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+	background: -ms-linear-gradient(90deg,rgba(255,255,255,0.05),rgba(255,255,255,0));
+}
+#redux-footer #redux-share {
+	float: right;
+}
+#redux-footer #redux-share a {
+	margin-right: auto;
+	margin-left: 10px;
+}
+#redux-save {
+	padding: 8px 14 8px 35px;
+}
+#redux-imported {
+	padding:8px 14px 8px 35px;
+}
+#redux-save-warn {
+	padding:8px 14px 8px 35px;
+}
+#redux-field-warnings {
+	padding:8px 14px 8px 35px;
+}
+#redux-field-errors, .no-js {
+	padding:8px 14px 8px 35px;
+}
+.redux-sidebar {
+	float: right;
+}
+.redux-menu-warning {
+	float: left;
+	margin-left: auto;
+	margin-right: 4px;
+}
+.redux-menu-error {
+	float: left;
+	margin-left: auto;
+	margin-right: 4px;
+}
+.redux-main {
+	margin-left: auto;
+	margin-right: 230px;
+	border-left-style: none;
+	border-right: 1px solid #D8D8D8;
+}
+.redux-sidebar .redux-group-menu li.active a,
+.redux-sidebar .redux-group-menu li:hover a{
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+.redux-sidebar .redux-group-menu li a:after{
+	right: auto;
+	left: -1px;
+	border-right-style: none;
+	border-left: 10px solid #FCFCFC;
+}
+.form-table .redux-field>label>input,
+.form-table .redux-field>* {
+ 	float: right;
+ }
+.farb-popup {
+	left: auto;
+	right: 40px;
+}
+.redux-group-tab-link-a span.group_title {
+	padding-left: 0;
+	padding-right:10px;
+}
+.redux-group-tab-link-li a.hasError span.group_title {
+	padding-right: 0;
+	padding-left: 25px;
+}
+.redux-container .ajax-loading-img-top {
+	float: right;
+}
+.redux-container .ajax-loading {
+	float: left;
+}
+.redux-container .ajax-reset-loading-img {
+	margin-left: auto;
+	margin-right: 100px;
+}
+.redux-container .redux-ajax-loading {
+	float: left;
+}
+.mp6 .redux-container #info_bar {
+	padding:6px 6px 6px 10px;
+}
+.redux-container #info_bar {
+	text-align: left;
+	padding-right: 0px !important;
+	padding-left: 20px !important;
+	margin-left: auto;
+	margin-right: 30px;
+}
+.redux-container #info_bar,
+.redux-sidebar .redux-group-menu li a,
+#redux-footer{
+	padding: 3px 0 3px 20px;
+}
+#redux-header .display_header {
+	float: left;
+	text-align: left;
+}
+#redux-header .display_header h2 {
+	padding-right: 15px;
+	padding-left: 5px;
+}
+#redux-header .icon32 {
+	float: left;
+}
+.redux-main input, .redux-main select, .redux-main textarea {
+	float: right;
+}
+.redux-main input.checkbox, .redux-main input.radio {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-main .input-text-small {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-main .meta-two {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.redux-main .of-typography-size {
+	float: right;
+}
+.redux-main .of-typography-unit {
+	float: right;
+}
+.redux-main .of-typography-face{
+	float: right;
+}
+.redux-main .of-typography-style {
+	float: right;
+}
+.redux-main .of-radio-img-img {
+	margin: 0 0 10px 5px;
+	float: right;
+}
+.redux-main .of-radio-tile-img {
+	margin: 0 0 10px 5px;
+	float: right;
+}
+.redux-main .of-border-width {
+	float: right;
+}
+.redux-main .of-border-style {
+	float: right;
+}
+.input-append {
+	margin-right: auto;
+	margin-left: 10px;
+}
+.input-append, .input-prepend {
+	float: right;
+}
+.redux-main .input-append input {
+	margin-left: 0;
+}
+.redux-main .input-prepend input {
+	margin-right: 0;
+}
+@media screen and (max-width:1124px) {
+	.redux-container #info_bar .warning_bar{
+		margin-left: auto !important;
+		margin-right: 20px !important;
+	}
+	.redux-main {
+		margin-left: auto;
+		margin-right: 72px;
+	}
+	.redux-group-tab-link-a span {
+		left: auto;
+		right: 42px;
+		border-width: 1px 0 1px 1px;
+		border-radius: 6px 0 0 6px;
+	}
+}
+@media screen and (max-width:783px) {
+	.redux-container #info_bar .warning_bar{
+		float: left;
+	}
+	.redux-container #info_bar .warning_bar>*{
+		padding-left: 0 !important;
+	}
+}
+@media screen and (max-width:480px){
+	.redux-container #info_bar .warning_bar{
+		margin-right: 0 !important;
+	}
+}
+.redux-main .field-desc {
+	float: right;
+}
+.redux-main .data-half li {
+	float: right;
+}
+.redux-main .data-third li {
+	float: right;
+}
+.redux-main .data-quarter li {
+	float: right;
+}
+#redux-header-wrapper,.redux-sidebar,#redux-footer, #info_bar{
+	padding-left: 0 !important;
+	padding-right: 30px !important;
+}
+#redux-footer{
+	padding-left: 30px !important;
+}
+/* wp */
+#wpcontent{
+	padding-left: 0 !important;
+}
+/* wp */
+.redux-container #info_bar>*{
+	float: right;
+}
+.redux-container #info_bar .warning_bar{
+	margin-left: auto;
+	margin-right: 170px;
+}
+.redux-container .redux-action_bar{
+	float: left !important;
+}
+.redux-container #info_bar .warning_bar>*{
+ 	padding: 0px 2.6em 0px 20px;
+}
+.redux-container #info_bar .warning_bar>*:before{
+ 	left: auto;
+ 	right: 0;
+}
+/************************************************/
+#wpcontent{
+	padding-right: 0 !important;
+}
+.redux-container .select2-container{
+	text-align: left;
+}

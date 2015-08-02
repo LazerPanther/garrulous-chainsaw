@@ -1,0 +1,2537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clinico - Responsive Medical and Health Template\n"
+"POT-Creation-Date: 2014-11-12 16:49+0200\n"
+"PO-Revision-Date: 2014-12-10 14:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: CWS <support@creaws.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Users/joss/Desktop/clinico\n"
+
+#: /Users/joss/Desktop/clinico/404.php:13
+msgid "oh no! it&#8217;s a"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/404.php:24
+msgid "Looks like the page you are looking for does not exists"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/404.php:26
+msgid "If you come here from a bookmark, please remember to update your bookmark"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/404.php:30
+msgid "go back to home page"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/comments.php:3
+msgid "Sorry, this post is password protected."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/comments.php:14
+msgid "Leave a Comment"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/comments.php:26
+msgid "Comments ("
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/comments.php:33
+msgid "Older Comments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/comments.php:34
+msgid "Newer Comments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/bfi_thumb.php:120
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required "
+"for WordPress to be able to resize images. Please contact your server administrator to enable this before "
+"continuing."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/bfi_thumb.php:235
+msgid "Image rotate failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/bfi_thumb.php:257
+msgid "Image opacity change failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/bfi_thumb.php:335
+msgid "Image color change failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/bfi_thumb.php:351
+msgid "Image grayscale failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/bfi_thumb.php:367
+msgid "Image negate failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/breadcrumbs.php:5
+msgid "Home"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/breadcrumbs.php:6
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/breadcrumbs.php:7
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/breadcrumbs.php:8
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/breadcrumbs.php:9
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/breadcrumbs.php:10
+msgid "Error 404"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/breadcrumbs.php:153
+msgid "Page"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:196
+#: /Users/joss/Desktop/clinico/core/plugins.php:77
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:197
+#: /Users/joss/Desktop/clinico/core/plugins.php:78
+msgid "Install Plugins"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:198
+#: /Users/joss/Desktop/clinico/core/plugins.php:79
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:210
+#: /Users/joss/Desktop/clinico/core/plugins.php:91
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:212
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1965
+#: /Users/joss/Desktop/clinico/core/plugins.php:92
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:556
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1304
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1326
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1393
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:144
+msgid "Type"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so please "
+"be patient."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2079
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2079
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:38
+msgid "Sidebar Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:41
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:185
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1824
+msgid "Default"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:42
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:367 /Users/joss/Desktop/clinico/framework/config.php:262
+#: /Users/joss/Desktop/clinico/framework/config.php:307
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/spacing/field_spacing.php:196
+msgid "Left"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:43
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:368 /Users/joss/Desktop/clinico/framework/config.php:264
+#: /Users/joss/Desktop/clinico/framework/config.php:309
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/spacing/field_spacing.php:182
+msgid "Right"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:44
+msgid "Double"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:45
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:366
+msgid "None"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:53
+msgid "Select a sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:62
+msgid "Select right sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:71
+msgid "This page is a Blog List:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:81
+msgid "Blog Layout"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:84
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:197 /Users/joss/Desktop/clinico/core/sc-settings.php:357
+msgid "Small"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:85
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:196
+msgid "Medium"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:86
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:195 /Users/joss/Desktop/clinico/core/sc-settings.php:356
+msgid "Large"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:87
+msgid "Pinterest"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:94
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:473 /Users/joss/Desktop/clinico/core/sc-settings.php:551
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:552 /Users/joss/Desktop/clinico/core/sc-settings.php:617
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:618
+msgid "Columns"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:98
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:556
+msgid "Two"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:99
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:557
+msgid "Three"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:100
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:558
+msgid "Four"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:108
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:422
+msgid "Category"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:109
+msgid "Blog categories"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:118
+msgid "Customize footer for this page:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:131
+msgid "Select Footer sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:140
+msgid "Select Copyrights sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/page-metaboxes.php:151
+msgid "Show Slider on this page:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/plugins.php:80
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/plugins.php:93
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/popup.php:35
+msgid "Insert Shortcode"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/portfolio-cols.php:91
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:460
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/spacing/field_spacing.php:151
+msgid "All"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/portfolio-cols.php:260 /Users/joss/Desktop/clinico/functions.php:834
+#: /Users/joss/Desktop/clinico/woocommerce/loop/pagination.php:28
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:36
+msgid "Next"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/portfolio-cols.php:261 /Users/joss/Desktop/clinico/functions.php:833
+#: /Users/joss/Desktop/clinico/woocommerce/loop/pagination.php:27
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:35
+msgid "Previous"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:32
+msgid "Gallery"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:41
+msgid "Add images"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:51
+msgid "URL to video file"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:52
+msgid "Ex.: http://player.vimeo.com/video/44510157?color=ffffff"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:64
+msgid "Quote"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:65
+msgid "Enter the quote"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:73 /Users/joss/Desktop/clinico/core/sc-settings.php:22
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:446
+msgid "Author"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:84
+msgid "URL to audio file"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:85
+msgid "Ex.: /wp-content/uploads/audio.mp3"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:96
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:208
+msgid "URL"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:107
+msgid "Currency"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:114
+msgid "Price"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:121
+msgid "Price Description"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:128
+msgid "Encouragement"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:129
+msgid "Encourage your customers with some simple words"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:136
+msgid "Order url"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:143
+msgid "Button name"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/post-metaboxes.php:150
+msgid "Highlight this cell"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:10
+msgid "Image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:15
+msgid "Quote text"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:33 /Users/joss/Desktop/clinico/core/sc-settings.php:34
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:119 /Users/joss/Desktop/clinico/core/sc-settings.php:120
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:271 /Users/joss/Desktop/clinico/core/sc-settings.php:272
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:331 /Users/joss/Desktop/clinico/core/sc-settings.php:332
+#: /Users/joss/Desktop/clinico/core/staff.php:355 /Users/joss/Desktop/clinico/core/staff.php:670
+msgid "Icon"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:41 /Users/joss/Desktop/clinico/core/sc-settings.php:92
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:166 /Users/joss/Desktop/clinico/core/sc-settings.php:247
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:447 /Users/joss/Desktop/clinico/core/sc-settings.php:491
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:545 /Users/joss/Desktop/clinico/core/sc-settings.php:599
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:610 /Users/joss/Desktop/clinico/core/staff.php:677
+msgid "Title"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:47 /Users/joss/Desktop/clinico/core/sc-settings.php:133
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:172 /Users/joss/Desktop/clinico/core/sc-settings.php:203
+msgid "Text"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:54
+msgid "Button"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:59
+msgid "Button URL"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:70
+msgid "Video/Audio url"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:76
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/dimensions/field_dimensions.php:121
+msgid "Width"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:82
+msgid "Height"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:98
+msgid "Percentage"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:99
+msgid "From 0 to 100"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:108
+msgid "Color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:127
+msgid "Number"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:145
+msgid "Info Box Type"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:148
+msgid "Information"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:149
+msgid "Warning"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:150
+msgid "Success"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:151
+msgid "Error"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:158
+msgid "Grey background"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:182
+msgid "Button type"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:186
+msgid "Rounded"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:187
+msgid "With Arrow"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:192
+msgid "Button size"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:198
+msgid "Mini"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:213
+msgid "Customize button"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:221
+msgid "Button Color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:228
+msgid "Border Color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:235
+msgid "Text Color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:253
+msgid "Number of tweets"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:260
+msgid "Tweets per slide"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:278
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:359
+msgid "Size"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:279 /Users/joss/Desktop/clinico/core/sc-settings.php:338
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:339
+msgid "Icon Size"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:293 /Users/joss/Desktop/clinico/core/sc-settings.php:374
+msgid "Customize"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:303 /Users/joss/Desktop/clinico/core/sc-settings.php:404
+msgid "Text color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:311 /Users/joss/Desktop/clinico/core/sc-settings.php:392
+msgid "Background color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:319
+msgid "Border color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:353
+msgid "Icon Type"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:363
+msgid "Float"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:384
+msgid "Icon color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:411
+msgid "Text background"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:423
+msgid "Posts category"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:430
+msgid "Order"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:433
+msgid "Acsending"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:434
+msgid "Descending"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:440 /Users/joss/Desktop/clinico/core/sc-settings.php:441
+msgid "Order by"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:444
+msgid "No order"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:445
+msgid "Post ID"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:448
+msgid "Date"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:449
+msgid "Last modified date"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:456
+msgid "Posts"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:457
+msgid "Posts to show"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:474
+msgid "Columns per row"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:498
+msgid "Display as"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:501
+msgid "Grid"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:502
+msgid "Carousel"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:508 /Users/joss/Desktop/clinico/core/sc-settings.php:509
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:522
+msgid "Departments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:521
+msgid "Select departments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:531
+msgid "Select departments to start in open mode "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:532
+msgid "Open mode"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:555
+msgid "One"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:565 /Users/joss/Desktop/clinico/core/sc-settings.php:566
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:638 /Users/joss/Desktop/clinico/core/sc-settings.php:639
+msgid "Categories"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:574
+msgid "Use portfolio filter"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:581
+msgid "Display as carousel"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:589
+msgid "Items per page"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:622
+msgid "Two Columns"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:623
+msgid "Three Columns"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:624
+msgid "Four Columns"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:631
+msgid "Post count"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:889
+msgid "Select Image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/sc-settings.php:889
+msgid "Remove Image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/shortcodes.php:155
+msgid "Click Here"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/shortcodes.php:397
+msgid "Twitter API keys and tokens are not set."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/shortcodes.php:501
+msgid "Events: "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/shortcodes.php:543
+msgid "Doctors"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:7
+msgid "Staff Members"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:8
+msgid "Staff Member"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:9
+msgid "Add Staff Member"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:10
+msgid "Add New Staff Member"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:11
+msgid "Edit Staff Member"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:12
+msgid "New Staff Member"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:13
+msgid "View Staff Member"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:14
+msgid "Search Staff Member"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:15
+msgid "No Staff Members found"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:16
+msgid "No Staff Members found in Trash"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:18
+msgid "Staff"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:40
+msgid "Portfolio Items"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:41
+msgid "Portfolio Item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:42
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:43
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:44
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:45
+msgid "New Portfolio Item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:46
+msgid "View Portfolio Item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:47
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:48
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:49
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:51
+msgid "Portfolio"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:89
+msgid "Thumbnails"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:91 /Users/joss/Desktop/clinico/core/staff.php:128
+#: /Users/joss/Desktop/clinico/core/staff.php:497
+msgid "Procedures"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:111
+msgid "Staff Department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:113
+msgid "Add New Department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:114
+msgid "Update Department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:115
+msgid "Search Departments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:116
+msgid "Edit Department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:117
+msgid "View Department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:130
+msgid "Add New Procedure"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:131
+msgid "Prices"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:132
+msgid "Update Procedure"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:133
+msgid "Search Procedures"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:134
+msgid "Edit Procedure"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:135
+msgid "View Procedure"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:146
+msgid "Positions"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:148
+msgid "Add New Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:149
+msgid "Popular Positions"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:150
+msgid "Separate positions with commas"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:151
+msgid "Update Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:152
+msgid "Search Positions"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:153
+msgid "Edit Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:154
+msgid "View Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:155
+msgid "Choose from the most used positions"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:166
+msgid "Treatments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:168
+msgid "Add New Treatment"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:169
+msgid "Popular Treatments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:170
+msgid "Separate treatmentss with commas"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:171
+msgid "Update Treatment"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:172
+msgid "Search Treatments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:173
+msgid "Edit Treatment"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:174
+msgid "View Treatment"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:175
+msgid "Choose from the most used treatmentss"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:263 /Users/joss/Desktop/clinico/core/staff.php:310
+msgid "Organizer"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:267
+msgid "Add featured image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:268
+msgid "Add image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:269 /Users/joss/Desktop/clinico/core/staff.php:320
+#: /Users/joss/Desktop/clinico/functions.php:588
+msgid "Remove this image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:274
+msgid "Select procedures available for this Department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:282
+msgid "Events associated with this Department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:290
+msgid "Department's icon"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:317
+msgid "Select a Picture for this department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:319 /Users/joss/Desktop/clinico/functions.php:587
+msgid "Click here to select image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:329
+msgid "Select Procedures for this department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:342
+msgid "Select Events associated with this department"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:495 /Users/joss/Desktop/clinico/core/staff.php:588
+msgid "Pics"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:499
+msgid "Events"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:501
+msgid "Description"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:591 /Users/joss/Desktop/clinico/core/staff.php:683
+msgid "Url"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:665
+msgid "Social group:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:702
+msgid "Doctor's degree (optional)"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:709
+msgid "Office address"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:716 /Users/joss/Desktop/clinico/core/staff.php:717
+msgid "Working days"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:759
+msgid "Excerpt"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:766
+msgid "Custom URL"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:774
+msgid "Use direct URL instead of the popup"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:783
+msgid "Show related projects:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:796
+msgid "Carousel title"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/staff.php:804
+msgid "Number of items"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_archives.php:8
+msgid "Modified WP Archives widget"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_archives.php:10
+msgid "CWS Archives"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_archives.php:76
+#: /Users/joss/Desktop/clinico/core/widgets/cws_benefits.php:72
+#: /Users/joss/Desktop/clinico/core/widgets/cws_doc_search.php:95
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:156
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:118
+#: /Users/joss/Desktop/clinico/core/widgets/cws_text.php:70
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:76
+msgid "Title:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_archives.php:81
+#: /Users/joss/Desktop/clinico/core/widgets/cws_benefits.php:77
+#: /Users/joss/Desktop/clinico/core/widgets/cws_doc_search.php:100
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:161
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:123
+#: /Users/joss/Desktop/clinico/core/widgets/cws_social_links.php:92
+#: /Users/joss/Desktop/clinico/core/widgets/cws_text.php:75
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:81
+msgid "Show icon options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_archives.php:91
+msgid "Show post count"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_archives.php:94
+#: /Users/joss/Desktop/clinico/core/widgets/cws_doc_search.php:110
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:193
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:146
+#: /Users/joss/Desktop/clinico/core/widgets/cws_social_links.php:102
+#: /Users/joss/Desktop/clinico/core/widgets/cws_text.php:90
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:97
+msgid "Highlight this widget"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_benefits.php:8
+msgid "Modified CWS Text widget"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_benefits.php:10
+msgid "CWS Benefits"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_benefits.php:90
+#: /Users/joss/Desktop/clinico/core/widgets/cws_text.php:87
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_benefits.php:93
+msgid "Read more URL"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_doc_search.php:4
+msgid "Doctor's search widget"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_doc_search.php:6
+msgid "CWS Doctor's Search "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_doc_search.php:46
+msgid "Search by name"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_doc_search.php:52
+msgid "Select treatment"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:8
+msgid "CWS most recent posts"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:9
+msgid "CWS Recent Posts"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:138
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:18
+msgid "Latest Posts"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:170
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:132
+msgid "Category:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:172
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:134
+msgid "All Categories"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:180
+msgid "Posts per slide:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:183
+msgid "Posts to show:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:186
+msgid "Description length:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_latest_posts.php:190
+msgid "Show post date"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:8
+msgid "Latest Portfolio Items"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:9
+msgid "CWS Portfolio"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:18
+msgid "Latest Pictures"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_portfolio.php:142
+msgid "Slides to show:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_social_links.php:8
+#: /Users/joss/Desktop/clinico/core/widgets/cws_social_links.php:9
+msgid "CWS Social Links"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_social_links.php:86
+msgid "Title: "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_text.php:8
+msgid "Modified WP Text widget"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_text.php:10
+msgid "CWS Text"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:9
+msgid "Clinico Footer post"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:10
+msgid "CWS Twitter"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:90
+msgid "Tweets to show:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/core/widgets/cws_twitter.php:93
+msgid "Tweets per slide:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:179
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:197
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:198
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:199
+msgid "Tags"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:204
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:204
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:231
+msgid "General Settings"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:232 /Users/joss/Desktop/clinico/framework/config.php:817
+msgid "Welcome to the Simple Options Framework Demo"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:241
+msgid "Custom Logo"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:248
+msgid "Logo Dimensions"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:254
+msgid "Logo Spacing"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:260
+msgid "Logo Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:263 /Users/joss/Desktop/clinico/framework/config.php:308
+msgid "Center"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:273
+msgid "Custom Favicon"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:274
+msgid "Upload a 32x32 .png image that will represent your website's favicon."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:280
+msgid "Google Analytic Code"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:281 /Users/joss/Desktop/clinico/framework/config.php:289
+msgid "Paste your Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:288
+msgid "Google Event Tracking Code"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:297
+msgid "Display Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:305
+msgid "Menu Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:316
+msgid "Use sticky menu"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:322
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:328
+msgid "Show post author"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:335
+msgid "Show comments on:"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:350
+msgid "Technical category"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:351
+msgid ""
+"The posts located in this category and subcategories are excluded from being displayed within the Homepage "
+"and Blog Lists."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:359
+msgid "Styling Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:367
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:374
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:375
+msgid "Select your current color scheme."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:389
+msgid "Use customized theme colors"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:397
+msgid "Theme Custom Color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:409
+msgid "Theme Custom Hover Color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:417
+msgid "Background Settings"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:418
+msgid "Click this link to customize your background settings"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:426
+msgid "Layout Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:435
+msgid "Default Page Sidebar Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:436
+msgid "You can override these settings on each page individually."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:438 /Users/joss/Desktop/clinico/framework/config.php:470
+#: /Users/joss/Desktop/clinico/framework/config.php:658 /Users/joss/Desktop/clinico/framework/config.php:714
+msgid "No Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:439 /Users/joss/Desktop/clinico/framework/config.php:471
+#: /Users/joss/Desktop/clinico/framework/config.php:659 /Users/joss/Desktop/clinico/framework/config.php:715
+msgid "Left Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:440 /Users/joss/Desktop/clinico/framework/config.php:472
+#: /Users/joss/Desktop/clinico/framework/config.php:660 /Users/joss/Desktop/clinico/framework/config.php:716
+msgid "Right Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:441 /Users/joss/Desktop/clinico/framework/config.php:473
+#: /Users/joss/Desktop/clinico/framework/config.php:661
+msgid "Double Sidebars"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:451
+msgid "Assign Page Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:452 /Users/joss/Desktop/clinico/framework/config.php:461
+#: /Users/joss/Desktop/clinico/framework/config.php:484 /Users/joss/Desktop/clinico/framework/config.php:493
+msgid "You can override these setting on each page individually."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:460
+msgid "Assign Page Left Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:467
+msgid "Default Blog Sidebar Position"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:468
+msgid "You can override this settings on each page individually."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:483
+msgid "Assign Blog Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:492
+msgid "Assign Blog Left Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:500
+msgid "Select Footer's sidebar area"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:501
+msgid "This options will set the default Footer widget area, unless you override it on each page."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:508
+msgid "Select Footer's copyrights sidebar area"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:509
+msgid "This options will set the default Footer Copyrights widget area, unless you override it on each page."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:516
+msgid "Select Header's toggle sidebar area"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:517
+msgid "This options will set the header's widget area, which can be toggled."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:523
+msgid "Enter toggle sidebar area's title"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:524
+msgid "This option determines the title of toggle sidebar area"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:530
+msgid "Sidebar Generator"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:531
+msgid ""
+"Please note: dot't forget to remove all the <a href=\"widgets.php\">widgets</a> within the sidebar before "
+"deleting!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:538
+msgid "Typography"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:546
+msgid "Main Menu Font Settings"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:564
+msgid "Headers Font Settings"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:585
+msgid "General Text Font Settings"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:608
+msgid "HomePage"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:616
+msgid "HomePage Slider"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:624
+msgid "Slider shortcode"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:631
+msgid "Video URL"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:632
+msgid "Insert Vimeo or Youtube resource URL"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:642
+msgid "Static Image"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:649
+msgid "AutoPlay Video"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:656
+msgid "Default HomePage Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:670
+msgid "Assign HomePage Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:678
+msgid "Assign HomePage Left Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:685
+msgid "Blog Posts Category"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:694
+msgid "Benefits Widgetized Area"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:695
+msgid "Show widgets of this sidebar under the slider on the Home Page."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:703
+msgid "WooCommerce"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:712
+msgid "Default WooCommerce Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:726
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:731
+msgid "Products per page"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:743
+msgid "Social Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:749
+msgid "Enable Twitter Feed"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:758
+msgid "Twitter API key"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:765
+msgid "Twitter API secret"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:772
+msgid "Twitter Access token"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:779
+msgid "Twitter Access token secret"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:785 /Users/joss/Desktop/clinico/framework/config.php:787
+msgid "Social networks"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:786
+msgid "Add any social network you like."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:793
+msgid "Social account title"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:794
+msgid "For example: My office twitter"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:801
+msgid "Select the icon for this social contact"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:802
+msgid "Here's a list of all the social icons by name and icon."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:807
+msgid "Url to your account"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:808
+msgid "For example: http://twitter.com/john.doe"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:816
+msgid "Help"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:834
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:835
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:836
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:840
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:867 /Users/joss/Desktop/clinico/framework/config.php:868
+msgid "Theme Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:926
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within "
+"your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/config.php:928
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but more info is always better! The "
+"intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/customizer/extension_customizer.php:402
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1580
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/customizer/extension_customizer.php:403
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1581
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/customizer/extension_customizer.php:404
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1583
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/customizer/extension_customizer.php:435
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/customizer/extension_customizer.php:436
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/customizer/extension_customizer.php:437
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/EDD_License_Handler.php:112
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/EDD_License_Handler.php:218
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/field_edd_license.php:142
+msgid "Deactivate License"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/EDD_SL_Theme_Updater.php:54
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/field_edd_license.php:110
+msgid "Not Activated"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/field_edd_license.php:114
+msgid "Deactivated"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/field_edd_license.php:116
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/module.php:145
+msgid "Valid"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/field_edd_license.php:123
+msgid "License Status"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/field_edd_license.php:132
+msgid "Verify License"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/edd_license/field_edd_license.php:137
+msgid "Activate License"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/module.php:11
+msgid "Licencing"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/module.php:16
+msgid "Shoestrap Theme Licence"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/module.php:17
+msgid "Enter your shoestrap licence to enable automatic updates."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/extensions/edd/module.php:147
+msgid "Invalid"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:185
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:185
+msgid "Redux Framework"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:188
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:191
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1209
+msgid "Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:420
+msgid "Dismiss"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1582
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1584
+msgid "Please Wait"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:1719
+msgid "Hints"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2554
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2637
+msgid "Settings Imported!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2643
+msgid "Settings Saved!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2650
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2651
+msgid "error(s) were found!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2652
+msgid "warning(s) were found!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2655
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2808
+msgid "Working..."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2658
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2801
+msgid "Save Changes"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2660
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2803
+msgid "Reset Section"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2662
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2805
+msgid "Reset All"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/framework.php:2711
+msgid "System Info"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/debug.php:41
+#: /Users/joss/Desktop/clinico/framework/rc/inc/debug.php:69
+#: /Users/joss/Desktop/clinico/framework/rc/inc/debug.php:76
+#: /Users/joss/Desktop/clinico/framework/rc/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/color/field_color.php:71
+msgid "Transparent"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/dimensions/field_dimensions.php:137
+msgid "height"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/dimensions/field_dimensions.php:149
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/dimensions/field_dimensions.php:150
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/spacing/field_spacing.php:206
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/spacing/field_spacing.php:207
+msgid "Units"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group/field_group.php:85
+msgid "New "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group/field_group.php:142
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group/field_group.php:210
+msgid "Delete"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group/field_group.php:216
+msgid "Add"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:80
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:85
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:92
+msgid "New"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:82
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:87
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:94
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/media/field_media.php:158
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/multi_text/field_multi_text.php:78
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/multi_text/field_multi_text.php:86
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/multi_text/field_multi_text.php:90
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/multi_text/field_multi_text.php:93
+msgid "Remove"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:97
+msgid "Clear"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/group_/field_group.php:98
+msgid "Add New"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:77
+msgid "Import / Export Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:80
+msgid "Import Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:81
+msgid "Import from File"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:81
+msgid "Import from Clipboard"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:81
+msgid "Import from URL"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:85
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:93
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:99
+msgid "Import"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:99
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:102
+msgid "Export Options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:105
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as you can use it as a backup "
+"should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:109
+msgid "Copy"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:109
+msgid "Download"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:109
+msgid "Copy Link"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:161
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:170
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/import_export/import_export.php:171
+msgid "Import / Export"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/link_color/field_link_color.php:91
+msgid "Regular"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/link_color/field_link_color.php:95
+msgid "Hover"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/link_color/field_link_color.php:99
+msgid "Visited"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/link_color/field_link_color.php:103
+msgid "Active"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/media/field_media.php:114
+msgid "No media selected"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/media/field_media.php:152
+msgid "Upload"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/select/field_select.php:67
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/select_image/field_select_image.php:58
+msgid "Select an item"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/select/field_select.php:105
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/select_image/field_select_image.php:133
+msgid "No items of this type were found."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/spacing/field_spacing.php:175
+msgid "Top"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/spacing/field_spacing.php:189
+msgid "Bottom"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:163
+msgid "Font family"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:190
+msgid "Standard Fonts"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:240
+msgid "Backup Font Family"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:259
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:263
+msgid "Font style"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:263
+msgid "Style"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:292
+msgid "Font subsets"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:293
+msgid "Subsets"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:293
+msgid "Font script"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:309
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:310
+msgid "Text Align"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:332
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:333
+msgid "Text Transform"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:364
+msgid "Line height"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:369
+msgid "Word spacing"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:369
+msgid "Word Spacing"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:375
+msgid "Letter spacing"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:375
+msgid "Letter Spacing"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:388
+msgid "Font color"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/fields/typography/field_typography.php:727
+msgid "Google Webfonts"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:111
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:112
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which "
+"configurations, plugins and themes to test to ensure compatability."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:117
+msgid "Allow tracking"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:122
+msgid "Do not allow tracking"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:132
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:133
+msgid "Getting Started"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:133
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by "
+"reviewing %1$s."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:133
+msgid "our documentation"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:134
+msgid "Redux Extensions"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:134
+#, php-format
+msgid "Did you know Redux has extensions, which enhances its features?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:134
+msgid "extensions directory"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:135
+msgid "Like Redux?"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:135
+#, php-format
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:135
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:135
+msgid "donation"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:136
+msgid "Newsletter"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:136
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:137
+msgid "Email address"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:137
+msgid "Subscribe"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/tracking.php:146
+msgid "Close"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/color/validation_color.php:15
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/color_rgba/validation_color_rgba.php:15
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/email/validation_email.php:15
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/email_not_empty/validation_email_not_empty.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/framework/rc/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:102
+msgid "Navigation Menu"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:103
+msgid "SideBar Menu"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:579
+msgid "Pick an icon for this widget"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:595
+msgid "Reset icon options"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:809
+msgid "Load More"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:850
+msgid "Next Page"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:851
+msgid "Previous Page"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:900 /Users/joss/Desktop/clinico/search.php:107
+msgid "Posted"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:906 /Users/joss/Desktop/clinico/search.php:112
+msgid "in"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:913 /Users/joss/Desktop/clinico/search.php:119
+msgid "by"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/functions.php:1055
+msgid "Reply"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/header.php:67
+msgid "NAVIGATION"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/header.php:154
+msgid "HOME"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/header.php:156
+msgid "EVENTS"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/header.php:157
+msgid "404 PAGE"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/header.php:168
+msgid "Search"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/search-staff.php:86
+msgid "Positions: "
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/search-staff.php:110 /Users/joss/Desktop/clinico/search.php:143
+msgid "No search results"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/search-staff.php:111 /Users/joss/Desktop/clinico/search.php:144
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:65
+msgid "departments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:66
+msgid "positions"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:67
+msgid "treatments"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:68
+msgid "procedures"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:69
+msgid "degree"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:70
+msgid "office"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:71
+msgid "workingdays"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:74
+msgid "Sunday"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:74
+msgid "Monday"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:74
+msgid "Tuesday"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:74
+msgid "Wednesday"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:74
+msgid "Thursday"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:74
+msgid "Friday"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/single-staff.php:74
+msgid "Saturday"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/tribe-events/day/single-event.php:62
+msgid "Find out more"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/tribe-events/modules/bar.php:115
+msgid "Find Events"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/tribe-events/single-event.php:23
+msgid "&laquo; All Events"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/tribe-events/single-event.php:39
+#: /Users/joss/Desktop/clinico/tribe-events/single-event.php:71
+msgid "Event Navigation"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product-reviews.php:92
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product/related.php:43
+msgid "Related Products"
+msgstr ""
+
+#: /Users/joss/Desktop/clinico/woocommerce/single-product/up-sells.php:46
+msgid "You may also like&hellip;"
+msgstr ""
