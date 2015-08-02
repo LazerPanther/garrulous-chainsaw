@@ -1,0 +1,118 @@
+body.rtl #cws_content_wrap .cwspb_widgets{
+    -webkit-box-direction: reverse;
+    -moz-box-direction: reverse;
+    -webkit-flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+}
+
+.elements_panel .tabs a{
+	float: right;
+}
+.elements_panel .tabs a + a{
+	margin-left: auto;
+	margin-right: 1px;
+}
+.elements_panel .tabs_content .tab_section{
+	margin-left: auto;
+	margin-right: -10px;
+}
+.elements_panel .tabs_content .tab_section#feeds-cols li,
+#cws_row>.item>.mod>h4>label>select{
+	direction: ltr;
+}
+.elements_panel .tabs_content .tab_section li{
+	float: right;
+	margin-left: auto;
+	margin-right: 10px;
+	padding-right: 8px;
+	padding-left: 32px;
+}
+.elements_panel .tabs_content .tab_section li:after{
+	right: auto;
+	left: 8px;
+}
+#cws_content_wrap .mod>h4{
+	padding: 8px 20px 8px 100px;
+	text-align: right;
+}
+#cws_content_wrap .mod>h4 select{
+	padding-right: 0;
+	padding-left: 23px;
+}
+#cws_content_wrap .mod>h4 label:after {
+    content:'>';
+    -webkit-transform:rotate(-90deg);
+    -moz-transform:rotate(-90deg);
+    -ms-transform:rotate(-90deg);
+    transform:rotate(-90deg);
+    right: auto;
+    left: 8px;
+}
+#cws_content_wrap .mod .control_panel{
+	right: auto;
+	left: 0;
+}
+#cws_content_wrap .mod .control_panel a{
+	display: inline-block;
+}
+#cws_content_wrap .mod .control_panel a + a,
+.cws-pb-accs .yui3-accordion-title .control_panel a + a{
+	margin-left: auto;
+	margin-right: 8px;
+}
+.cws-pb-accs .yui3-accordion-title,
+.cws-pb-tabs .yui3-tabview-list .yui3-tab{
+	padding-right: 20px;
+	padding-left: 80px;
+}
+.cws-pb-tabs .yui3-tabview-list .yui3-tab{
+	padding: 10px;
+}
+.cws-pb-accs .yui3-accordion-title .control_panel{
+	right: auto;
+	left: 0;
+}
+#cws_content_wrap .cws-pb-tabs .yui3-tabview-list .yui3-tab:not(:first-child){
+	margin-left: auto;
+	margin-right: -1px;
+}
+.cws-pb-tabs .yui3-tabview-list .yui3-tab a + .control_panel{
+	margin-left: auto;
+	margin-right: 18px;
+}
+.cws-pb-tabs .yui3-tabview-panel{
+	border-radius: 4px 0 4px 4px;
+}
+.yui3-widget-modal .yui3-widget-hd:after{
+	right: auto;
+	left: 0;
+}
+.yui3-widget-modal .row_options{
+	left: auto;
+	right: -10px;
+	text-align: right;
+}
+.yui3-widget-modal .row_options>*{
+	padding-right: 10px;
+}
+.yui3-widget-modal .cws_tmce_buttons + .cws-pb-tmce{
+	border-radius: 0 4px 4px 4px;
+}
+/****************************************/
+.inner .sc_render img {
+	float: left;
+}
+
+.inner .sc_render .sc_descr {
+	min-height: 32px;
+	margin-left: 41px;
+}
+/****************************************/
+.control_panel select {
+	left: auto
+	right: -170px;
+}
+.pricing_table_column .price_description{
+	text-align: left;
+}
